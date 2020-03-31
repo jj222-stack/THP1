@@ -1,0 +1,16 @@
+.alignligne
+{ 
+	display: flex; 
+        flex-direction: row-reverse;
+       	}
+
+
+.logo
+{ 	display: flex;
+	align-self : center; 
+}
+
+
+
+
+
